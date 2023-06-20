@@ -1,4 +1,4 @@
-# Wallet Creation
+# Wallet Address Creation
 This is a simple HTML page that allows you to create an Ethereum wallet, fetch the balance of the wallet, and transfer ETH to another address. It utilizes the Web3 library to interact with an Ethereum provider.
 
 ## Usage
@@ -13,6 +13,8 @@ To use this web application, follow these steps:
 - Click the "Transfer" button to initiate the transaction.
 - A transaction confirmation dialog will be shown, displaying the transaction hash, sender address, recipient address, and the amount of ETH transferred.
 Note: This web application assumes that you have a local Ethereum provider running on http://localhost:8545, such as Hardhat.
+
+![WhatsApp Image 2023-06-20 at 15 02 54](https://github.com/Yogesh01000100/wallet_address/assets/90953665/bf51ccb8-d527-498e-8c28-dd66331ad0db)
 
 ## Dependencies
 This application requires the following dependencies:
